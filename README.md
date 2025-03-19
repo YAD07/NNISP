@@ -19,9 +19,9 @@
 | 2020 | -      | [AIM 2020 Challenge on Learned Image Signal Processing Pipeline](https://arxiv.org/pdf/2011.04994.pdf) | -                    | AWNet |
 | 2020 | ECCVW      | [AWNet：Attentive Wavelet Network for Image ISP](https://arxiv.org/pdf/2008.09228.pdf) | [torch](https://github.com/Charlie0215/AWNet-Attentive-Wavelet-Network-for-Image-ISP) | AWNet       |
 | 2020 | CVPR      | [CycleISP: Real Image Restoration via Improved Data Synthesis](https://arxiv.org/pdf/2003.07761.pdf)         | [torch](https://github.com/swz30/CycleISP)                    | -     |
-| 2020 | ECCV      | .[PyNet-CA: Enhanced PyNet with Channel Attention for Mobile ISP](https://link.springer.com/chapter/10.1007/978-3-030-67070-2_12) | [torch](https://github.com/egyptdj/skyb-aim2020-public)                | Selective alignment fusion |
+| 2020 | ECCV      | .[PyNet-CA: Enhanced PyNet with Channel Attention for Mobile ISP](https://link.springer.com/chapter/10.1007/978-3-030-67070-2_12) | [torch](https://github.com/egyptdj/skyb-aim2020-public)                | - |
 | 2019 | -      | [HighEr-Resolution Network for Image Demosaicing and Enhancing](https://arxiv.org/pdf/1911.08098.pdf) |  [torch](https://github.com/MKFMIKU/RAW2RGBNet)      | -        |
-| 2019 | TIP      | [DeepISP: Toward Learning an End-to-End Image Processing Pipeline](https://arxiv.org/pdf/1801.06724v2) |         | U_net        |
-| 2019 | CVPR      | [Towards real scene super-resolution with raw images](https://arxiv.org/pdf/1805.01934.pdf) |  [Learn to See in the Dark]([https://arxiv.org/pdf/1805.01934.pdf](https://github.com/cchen156/Learning-to-See-in-the-Dark))        | U_net        |
-| 2019 | CVPR      | [Unprocessing Images for Learned Raw Denoising](https://arxiv.org/pdf/1805.01934.pdf) |  [Learn to See in the Dark]([https://arxiv.org/pdf/1805.01934.pdf](https://github.com/cchen156/Learning-to-See-in-the-Dark))        | U_net        |
+| 2019 | TIP      | [DeepISP: Toward Learning an End-to-End Image Processing Pipeline](https://arxiv.org/pdf/1801.06724v2) |         | -        |
+| 2019 | CVPR      | [Towards real scene super-resolution with raw images](https://arxiv.org/pdf/1805.01934.pdf) |  [Learn to See in the Dark]([https://arxiv.org/pdf/1805.01934.pdf](https://github.com/cchen156/Learning-to-See-in-the-Dark))        | -        |
+| 2019 | CVPR      | [Unprocessing Images for Learned Raw Denoising](https://arxiv.org/pdf/1805.01934.pdf) |  [Learn to See in the Dark]([https://arxiv.org/pdf/1805.01934.pdf](https://github.com/cchen156/Learning-to-See-in-the-Dark))        | -        |
 | 2018 | CVPR      | [Learn to See in the Dark](https://arxiv.org/pdf/1805.01934.pdf) |  [Tensorflow](https://github.com/cchen156/Learning-to-See-in-the-Dark)        | U_net        |
