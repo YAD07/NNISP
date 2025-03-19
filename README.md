@@ -4,8 +4,8 @@
 
 | Year | Published | Paper                                                                 | Code / Project       | Keywords              |
 |------|-----------|----------------------------------------------------------------------|----------------------|-----------------------|
-| 2018 | ICCV      | [HighEr-Resolution Network for Image Demosaicing and Enhancing]((https://arxiv.org/pdf/1911.08098.pdf) |  [Learn to See in the Dark]（https://github.com/MKFMIKU/RAW2RGBNet）      | U_net        |
-| 2024 | CVPR      | [Pseudo-ISP: Learning Pseudo In-camera Signal Processing Pipeline from A Color Image Denoiser](https://arxiv.org/pdf/2103.10234v1.pdf))   | [torch](https://github.com/happycaoyue/Pseudo-ISP)                    | -      |
+| 2018 | ICCV      | [HighEr-Resolution Network for Image Demosaicing and Enhancing](https://arxiv.org/pdf/1911.08098.pdf) |  [Learn to See in the Dark]（https://github.com/MKFMIKU/RAW2RGBNet）      | U_net        |
+| 2021 | -      | [Pseudo-ISP: Learning Pseudo In-camera Signal Processing Pipeline from A Color Image Denoiser](https://arxiv.org/pdf/2103.10234v1.pdf))   | [torch](https://github.com/happycaoyue/Pseudo-ISP)                    | -      |
 | 2023 | CVPR      | [AIM 2020 Challenge on Learned Image Signal Processing Pipeline](https://arxiv.org/pdf/2011.04994.pdf) | -                    | AWNet |
 |-  |    -   | [Replacing Mobile Camera ISP with a Single Deep Learning Model](https://arxiv.org/pdf/2002.05509.pdf)      | [torch](https://github.com/aiff22/PyNET-PyTorch)              | PyNet       |
 | 2021 | ICCV     | [Learning RAW-to-sRGB Mappings with Inaccurately Aligned Supervision](https://arxiv.org/pdf/2108.08119v1)       | [torch](https://github.com/cszhilu1998/RAW-to-sRGB)          | -    |
