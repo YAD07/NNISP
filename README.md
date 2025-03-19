@@ -11,8 +11,7 @@
 | 2023 | CVPR      | [AIM 2020 Challenge on Learned Image Signal Processing Pipeline](https://arxiv.org/pdf/2011.04994.pdf) | -                    | AWNet              |
 |  |       | [Replacing Mobile Camera ISP with a Single Deep Learning Model](https://arxiv.org/pdf/2002.05509.pdf)      | [torch](https://github.com/aiff22/PyNET-PyTorch)              | PyNet       |
 | 2021 | ICCV     | [Learning RAW-to-sRGB Mappings with Inaccurately Aligned Supervision](https://arxiv.org/pdf/2108.08119v1)       | [torch](https://github.com/swz30/CycleISP)                    | Transformer-based     |
-| 2021 | CVPR      | [CameraNet: A Two-Stage Framework for Effective Camera ISP Learning](https://arxiv.org/pdf/1908.01481)       | [torch]
-(https://github.com/swz30/CycleISP)                    | Transformer-based     |
+| 2021 | CVPR      | [CameraNet: A Two-Stage Framework for Effective Camera ISP Learning](https://arxiv.org/pdf/1908.01481)|[torch(https://github.com/swz30/CycleISP)                    | Transformer-based     |
 | 2020 | ECCVW      | [AWNet：Attentive Wavelet Network for Image ISP](https://arxiv.org/pdf/2008.09228.pdf) | [Pytorch](https://github.com/Charlie0215/AWNet-Attentive-Wavelet-Network-for-Image-ISP) | AWNet       |
 | 2020 | CVPR      | [CycleISP: Real Image Restoration via Improved Data Synthesis](https://arxiv.org/pdf/2003.07761.pdf)         | [torch](https://github.com/swz30/CycleISP)                    | -     |
 | 2019 | TIP      | [DeepISP: Toward Learning an End-to-End Image Processing Pipeline](https://arxiv.org/pdf/1801.06724v2) |         | U_net        |
