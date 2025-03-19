@@ -4,6 +4,7 @@
 
 | Year | Published | Paper                                                                 | Code / Project       | Keywords              |
 |------|-----------|----------------------------------------------------------------------|----------------------|-----------------------|
+| 2024 | CVPR      | [ Learning Degradation-Independent Representations for Camera ISP Pipelines](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_Learning_Degradation-Independent_Representations_for_Camera_ISP_Pipelines_CVPR_2024_paper.pdf)   | -                    | -      |
 | 2024 | CVPR      | [Leveraging Frame Affinity for sRGB-to-RAW Video De-rendering](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Leveraging_Frame_Affinity_for_sRGB-to-RAW_Video_De-rendering_CVPR_2024_paper.pdf)   | [torch](https://github.com/zhangchen98/RAW_CVPR24/blob/main/README.md)                  | -      |
 | 2024 | NeurIPS      | [AdaptiveISP: Learning an Adaptive Image Signal Processor for Object Detection](https://papers.nips.cc/paper_files/paper/2024/file/cc596a803bedc7a03a87e98c77a22efe-Paper-Conference.pdf)  | [torch](https://github.com/OpenImagingLab/AdaptiveISP)                 | -      |
 | 2023 | CVPR      | [Learning to Exploit the Sequence-Specific Prior Knowledge for Image Processing Pipelines Optimization](https://openaccess.thecvf.com/content/CVPR2023/papers/Qin_Learning_To_Exploit_the_Sequence-Specific_Prior_Knowledge_for_Image_Processing_CVPR_2023_paper.pdf)   | -                    | -      |
