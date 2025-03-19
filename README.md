@@ -4,6 +4,8 @@
 
 | Year | Published | Paper                                                                 | Code / Project       | Keywords              |
 |------|-----------|----------------------------------------------------------------------|----------------------|-----------------------|
+| 2022 | CVPRW      | [Deep-FlexISP: A Three-Stage Framework for Night Photography Rendering](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Liu_Deep-FlexISP_A_Three-Stage_Framework_for_Night_Photography_Rendering_CVPRW_2022_paper.pdf)   | -                    | -      |
+| 2022 | ECCV      | [RAWtoBit: A Fully End-to-end Camera ISP Network](https://arxiv.org/pdf/2208.07639)   | -                    | -      |
 | 2021 | -      | [Pseudo-ISP: Learning Pseudo In-camera Signal Processing Pipeline from A Color Image Denoiser](https://arxiv.org/pdf/2103.10234v1.pdf))   | [torch](https://github.com/happycaoyue/Pseudo-ISP)                    | -      |
 |-  |    -   | [Replacing Mobile Camera ISP with a Single Deep Learning Model](https://arxiv.org/pdf/2002.05509.pdf)      | [torch](https://github.com/aiff22/PyNET-PyTorch)              | PyNet       |
 | 2021 | ICCV     | [Learning RAW-to-sRGB Mappings with Inaccurately Aligned Supervision](https://arxiv.org/pdf/2108.08119v1)       | [torch](https://github.com/cszhilu1998/RAW-to-sRGB)          | -    |
