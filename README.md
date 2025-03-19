@@ -10,4 +10,4 @@
 | 2023 | CVPR      | [SMAE: Few-shot Learning for HDR Deghosting with Saturation-Aware Masked Autoencoders](URL) | -                    | Few-shot              |
 | 2023 | CVPR      | [A Unified HDR Imaging Method with Pixel and Patch Level](URL)       | -                    | Attention-based       |
 | 2023 | AAAI      | [Improving Dynamic HDR Imaging with Fusion Transformer](URL)         | -                    | Transformer-based     |
-| 2023 | ICCV      | [Learn to See in the Dark]([URL](https://arxiv.org/pdf/1805.01934.pdf)) |  [Learn to See in the Dark]([URL](https://arxiv.org/pdf/1805.01934.pdf))         | Non-flow based        |
+| 2023 | ICCV      | [Learn to See in the Dark](https://arxiv.org/pdf/1805.01934.pdf) |  [Learn to See in the Dark](https://arxiv.org/pdf/1805.01934.pdf)        | Non-flow based        |
