@@ -12,7 +12,7 @@
 | 2023 | CVPR      | [Replacing Mobile Camera ISP with a Single Deep Learning Model](https://arxiv.org/pdf/2002.05509.pdf)      | -   （https://github.com/aiff22/PyNET-PyTorch）                 | Attention-based       |
 | 2021 | ICCV     | [Learning RAW-to-sRGB Mappings with Inaccurately Aligned Supervision](https://arxiv.org/pdf/2108.08119v1)       | [torch](https://github.com/swz30/CycleISP)                    | Transformer-based     |
 | 2021 | CVPR      | [CameraNet: A Two-Stage Framework for Effective Camera ISP Learning](https://arxiv.org/pdf/1908.01481)       | [torch](https://github.com/swz30/CycleISP)                    | Transformer-based     |
-| 2020 | CVPR      | [CycleISP: Real Image Restoration via Improved Data Synthesis](https://arxiv.org/pdf/2003.07761.pdf)         | [torch](https://github.com/swz30/CycleISP)                    | Transformer-based     |
+| 2020 | CVPR      | [CycleISP: Real Image Restoration via Improved Data Synthesis](https://arxiv.org/pdf/2003.07761.pdf)         | [torch](https://github.com/swz30/CycleISP)                    | -     |
 | 2019 | TIP      | [DeepISP: Toward Learning an End-to-End Image Processing Pipeline](https://arxiv.org/pdf/1801.06724v2) |         | U_net        |
 | 2019 | CVPR      | [Towards real scene super-resolution with raw images](https://arxiv.org/pdf/1805.01934.pdf) |  [Learn to See in the Dark]([https://arxiv.org/pdf/1805.01934.pdf](https://github.com/cchen156/Learning-to-See-in-the-Dark))        | U_net        |
 | 2019 | CVPR      | [Unprocessing Images for Learned Raw Denoising](https://arxiv.org/pdf/1805.01934.pdf) |  [Learn to See in the Dark]([https://arxiv.org/pdf/1805.01934.pdf](https://github.com/cchen156/Learning-to-See-in-the-Dark))        | U_net        |
