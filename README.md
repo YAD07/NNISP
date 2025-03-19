@@ -4,6 +4,7 @@
 
 | Year | Published | Paper                                                                 | Code / Project       | Keywords              |
 |------|-----------|----------------------------------------------------------------------|----------------------|-----------------------|
+| 2023 | CVPR      | [Raw Image Reconstruction with Learned Compact Metadata](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Raw_Image_Reconstruction_With_Learned_Compact_Metadata_CVPR_2023_paper.pdf)   | [torch](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Raw_Image_Reconstruction_With_Learned_Compact_Metadata_CVPR_2023_paper.pdf)                   | -      |
 | 2022 | CVPRW      | [Deep-FlexISP: A Three-Stage Framework for Night Photography Rendering](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Liu_Deep-FlexISP_A_Three-Stage_Framework_for_Night_Photography_Rendering_CVPRW_2022_paper.pdf)   | -                    | -      |
 | 2022 | ECCV      | [RAWtoBit: A Fully End-to-end Camera ISP Network](https://arxiv.org/pdf/2208.07639)   | -                    | -      |
 | 2021 | -      | [Pseudo-ISP: Learning Pseudo In-camera Signal Processing Pipeline from A Color Image Denoiser](https://arxiv.org/pdf/2103.10234v1.pdf))   | [torch](https://github.com/happycaoyue/Pseudo-ISP)                    | -      |
