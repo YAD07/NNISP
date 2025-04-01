@@ -26,9 +26,8 @@
 | 2019 | CVPR      | [Unprocessing Images for Learned Raw Denoising](https://arxiv.org/pdf/1805.01934.pdf) |  -        | -        |
 | 2018 | CVPR      | [Learn to See in the Dark](https://arxiv.org/pdf/1805.01934.pdf) |  [Tensorflow](https://github.com/cchen156/Learning-to-See-in-the-Dark)        | U_net        |
 
-## Dataset Module
+## Dataset 
 
-### Dynamic Range Imaging Datasets
 | Dataset               | Amount | Usage (Train + Test) | GT (Ground Truth) | Resolution  |
 |-----------------------|--------|----------------------|-------------------|-------------|
 | Prabhakar et al. 2019 | 582    | 366 (train) + 116 (test) | Yes              | 1500x1125  |
