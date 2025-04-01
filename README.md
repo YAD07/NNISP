@@ -27,10 +27,10 @@
 | 2018 | CVPR      | [Learn to See in the Dark](https://arxiv.org/pdf/1805.01934.pdf) |  [Tensorflow](https://github.com/cchen156/Learning-to-See-in-the-Dark)        | U_net        |
 
 ## Dataset 
+### [RAISE](https://loki.disi.unitn.it/RAISE/download.html)
+| Cameras      | Outdoor Photo | Indoor Photo | Landscape Photo | Nature Photo  | People Photo| Objects Photo| Buildings Photo| Total|
+|--------------|---------------|--------------|-----------------|---------------|-------------|--------------|----------------|------|
+| Nikon D90    | 1735 |541 | 482 | 103  | 489| 353| 756| 2276|
+| Nikon D7000  | 5171 | 633 | 2023 | 1064  | 587| 500| 1689| 5804|
+| Nikon D40    | 48 | 28 | 17 | 0  | 21| 7| 30| 76|
 
-| Dataset               | Amount | Usage (Train + Test) | GT (Ground Truth) | Resolution  |
-|-----------------------|--------|----------------------|-------------------|-------------|
-| Prabhakar et al. 2019 | 582    | 366 (train) + 116 (test) | Yes              | 1500x1125  |
-| Kalantari et al. 2017 | 89     | 74 (train) + 15 (test)   | Yes              | 1500x1000  |
-| Tursun et al. 2016    | 16     | Test only            | No               | 1024x682   |
-| Sen et al. 2012       | 8      | Test only            | No               | 1350x900   |
