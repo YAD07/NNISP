@@ -4,9 +4,9 @@
 
 | Year | Published | Paper                                                                 | Code / Project       | Keywords              |
 |------|-----------|----------------------------------------------------------------------|----------------------|-----------------------|
-| 2025 | AAAI      | [ISPDiffuser: Learning RAW-to-sRGB Mappings with Texture-Aware Diffusion Models and Histogram-Guided Color Consistency](https://ojs.aaai.org/index.php/AAAI/article/view/32721/34876)  | [torch](https://github.com/RenYangSCU/ISPDiffuser)                  | diffusion      |
-| 2024 | AAAI      | [DiffRAW: Leveraging Diffusion Model to Generate DSLR-Comparable Perceptual Quality sRGB from Smartphone RAW Images](https://ojs.aaai.org/index.php/AAAI/article/view/28494/28962)  | -   | diffusion      |
-| 2024 | AAAI      | [Enhancing-RAW-to-sRGB-with-Decoupled-Style-Structure-in-Fourier-Domain](https://arxiv.org/pdf/2401.02161)  | [-](https://github.com/alexhe101/FourierISP/tree/main)   | -      |
+| 2025 | AAAI      | [ISPDiffuser: Learning RAW-to-sRGB Mappings with Texture-Aware Diffusion Models and Histogram-Guided Color Consistency](https://ojs.aaai.org/index.php/AAAI/article/view/32721/34876)  | [torch](https://github.com/RenYangSCU/ISPDiffuser)                  | ISPDiffuser      |
+| 2024 | AAAI      | [DiffRAW: Leveraging Diffusion Model to Generate DSLR-Comparable Perceptual Quality sRGB from Smartphone RAW Images](https://ojs.aaai.org/index.php/AAAI/article/view/28494/28962)  | -   | DiffRAW      |
+| 2024 | AAAI      | [Enhancing-RAW-to-sRGB-with-Decoupled-Style-Structure-in-Fourier-Domain](https://arxiv.org/pdf/2401.02161)  | [FourierISP](https://github.com/alexhe101/FourierISP/tree/main)   | FourierISP      |
 | 2024 | CVPR      | [ ParamISP: Learned Forward and Inverse ISPs using Camera Parameters](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_ParamISP_Learned_Forward_and_Inverse_ISPs_using_Camera_Parameters_CVPR_2024_paper.pdf)   | [torch](https://github.com/woo525/ParamISP)                    | -      |
 | 2024 | CVPR      | [ Learning Degradation-Independent Representations for Camera ISP Pipelines](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_Learning_Degradation-Independent_Representations_for_Camera_ISP_Pipelines_CVPR_2024_paper.pdf)   | -                    | -      |
 | 2024 | CVPR      | [Leveraging Frame Affinity for sRGB-to-RAW Video De-rendering](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Leveraging_Frame_Affinity_for_sRGB-to-RAW_Video_De-rendering_CVPR_2024_paper.pdf)   | [torch](https://github.com/zhangchen98/RAW_CVPR24/blob/main/README.md)                  | -      |
@@ -17,7 +17,7 @@
 | 2022 | ECCV      | [RAWtoBit: A Fully End-to-end Camera ISP Network](https://arxiv.org/pdf/2208.07639)   | -                    | -      |
 | 2021 | CVPR    | [Invertible Image Signal Processing](https://arxiv.org/pdf/2103.15061)  | [torch](https://github.com/happycaoyue/Pseudo-ISP)                    | InvISP     |
 | 2021 | -      | [Pseudo-ISP: Learning Pseudo In-camera Signal Processing Pipeline from A Color Image Denoiser](https://arxiv.org/pdf/2103.10234v1.pdf)   | [torch](https://github.com/happycaoyue/Pseudo-ISP)                    | -      |
-| 2021 | ICCV     | [Learning RAW-to-sRGB Mappings with Inaccurately Aligned Supervision](https://arxiv.org/pdf/2108.08119v1)       | [torch](https://github.com/cszhilu1998/RAW-to-sRGB)          | -    |
+| 2021 | ICCV     | [Learning RAW-to-sRGB Mappings with Inaccurately Aligned Supervision](https://arxiv.org/pdf/2108.08119v1)       | [torch](https://github.com/cszhilu1998/RAW-to-sRGB)          | LiteISPNet    |
 | 2021 | CVPR      | [CameraNet: A Two-Stage Framework for Effective Camera ISP Learning](https://arxiv.org/pdf/1908.01481)|[torch](https://github.com/yzxing87/Invertible-ISP?tab=readme-ov-file)                    | -     |
 |2020  |    CVPR   | [Replacing Mobile Camera ISP with a Single Deep Learning Model](https://arxiv.org/pdf/2002.05509.pdf)      | [torch](https://github.com/aiff22/PyNET-PyTorch)              | PyNet       |
 | 2020 | -      | [AIM 2020 Challenge on Learned Image Signal Processing Pipeline](https://arxiv.org/pdf/2011.04994.pdf) | -                    | - |
