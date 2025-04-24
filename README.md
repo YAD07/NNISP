@@ -4,6 +4,7 @@
 
 | Year | Published | Paper                                                                 | Code / Project       | Keywords              |
 |------|-----------|----------------------------------------------------------------------|----------------------|-----------------------|
+| 2025 | CVPR      | [ISPDiffuser: Learning RAW-to-sRGB Mappings with Texture-Aware Diffusion Models and Histogram-Guided Color Consistency](https://ojs.aaai.org/index.php/AAAI/article/view/32721/34876)  | [torch](https://github.com/RenYangSCU/ISPDiffuser)                  | diffusion      |
 | 2024 | CVPR      | [ ParamISP: Learned Forward and Inverse ISPs using Camera Parameters](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_ParamISP_Learned_Forward_and_Inverse_ISPs_using_Camera_Parameters_CVPR_2024_paper.pdf)   | [torch](https://github.com/woo525/ParamISP)                    | -      |
 | 2024 | CVPR      | [ Learning Degradation-Independent Representations for Camera ISP Pipelines](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_Learning_Degradation-Independent_Representations_for_Camera_ISP_Pipelines_CVPR_2024_paper.pdf)   | -                    | -      |
 | 2024 | CVPR      | [Leveraging Frame Affinity for sRGB-to-RAW Video De-rendering](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Leveraging_Frame_Affinity_for_sRGB-to-RAW_Video_De-rendering_CVPR_2024_paper.pdf)   | [torch](https://github.com/zhangchen98/RAW_CVPR24/blob/main/README.md)                  | -      |
