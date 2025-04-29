@@ -4,7 +4,9 @@
 | Year | Published | Paper                                                                 | Code / Project       | Keywords              |
 |------|-----------|----------------------------------------------------------------------|----------------------|-----------------------|
 | 2023 | CVPR      | [ Metadata-Based RAW Reconstruction via Implicit Neural Functions](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Metadata-Based_RAW_Reconstruction_via_Implicit_Neural_Functions_CVPR_2023_paper.pdf)  | [torch](https://github.com/lly-louis/INF)                  | -      |
-| 2023 | CVPR      | [Raw Image Reconstruction with Learned Compact Metadata](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Raw_Image_Reconstruction_With_Learned_Compact_Metadata_CVPR_2023_paper.pdf)   | [torch](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Raw_Image_Reconstruction_With_Learned_Compact_Metadata_CVPR_2023_paper.pdf)                   | -      |
+| 2023 | CVPR      | [Raw Image Reconstruction with Learned Compact Metadata](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Raw_Image_Reconstruction_With_Learned_Compact_Metadata_CVPR_2023_paper.pdf)   | [torch](https://github.com/wyf0912/R2LCM)                   | -      |
+| 2021 | WACV      | [Spatially Aware Metadata for Raw Reconstruction](https://openaccess.thecvf.com/content/WACV2021/papers/Punnappurath_Spatially_Aware_Metadata_for_Raw_Reconstruction_WACV_2021_paper.pdf)  | -                   | -      |
+
 
 ## All
 | Year | Published | Paper                                                                 | Code / Project       | Keywords              |
