@@ -4,6 +4,7 @@
 | Year | Published | Paper                                                                 | Code / Project       | Keywords              |
 |------|-----------|----------------------------------------------------------------------|----------------------|-----------------------|
 | 2025 | CVPR      | [ReRAW: RGB-to-RAW Image Reconstruction via Stratified Sampling for Efficient Object Detection on the Edge](https://arxiv.org/html/2503.03782v1)  | [torch](https://github.com/SonyResearch/ReRAW)                  | -      |
+| 2025 | WACV      | [RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation](https://arxiv.org/pdf/2411.13150)  | [torch](https://github.com/SonyResearch/RAW-Diffusion?tab=readme-ov-file)                  | -      |
 | 2024 | -       | [PriorMetadata-DrivenRAWReconstruction: EliminatingtheNeedforPer-ImageMetadata](https://openreview.net/pdf?id=TyqDTatA2Y)  | -                  | -      |
 | 2023 | CVPR      | [ Metadata-Based RAW Reconstruction via Implicit Neural Functions](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Metadata-Based_RAW_Reconstruction_via_Implicit_Neural_Functions_CVPR_2023_paper.pdf)  | [torch](https://github.com/lly-louis/INF)                  | -      |
 | 2023 | CVPR      | [Raw Image Reconstruction with Learned Compact Metadata](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Raw_Image_Reconstruction_With_Learned_Compact_Metadata_CVPR_2023_paper.pdf)   | [torch](https://github.com/wyf0912/R2LCM)                   | -      |
