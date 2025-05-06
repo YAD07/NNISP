@@ -30,7 +30,6 @@
 | 2023 | CVPR      | [Learning to Exploit the Sequence-Specific Prior Knowledge for Image Processing Pipelines Optimization](https://openaccess.thecvf.com/content/CVPR2023/papers/Qin_Learning_To_Exploit_the_Sequence-Specific_Prior_Knowledge_for_Image_Processing_CVPR_2023_paper.pdf)   | -                    | -      |
 | 2022 | CVPRW      | [Deep-FlexISP: A Three-Stage Framework for Night Photography Rendering](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Liu_Deep-FlexISP_A_Three-Stage_Framework_for_Night_Photography_Rendering_CVPRW_2022_paper.pdf)   | -                    | -      |
 | 2022 | ECCV      | [Transform your Smartphone into a DSLR Camera: Learning the ISP in the Wild](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660614.pdf)   | [Code will be released soon](https://github.com/4rdhendu/TransformPhone2DSLR)                    | transformISP      |
-Stage_Framework_for_Night_Photography_Rendering_CVPRW_2022_paper.pdf)   | -                    | -      |
 | 2022 | AAAI      | [Model-Based Image Signal Processors via Learnable Dictionaries](https://arxiv.org/pdf/2201.03210)   | [torch](https://github.com/mv-lab/AISP?tab=readme-ov-file)                    | transformISP      |
 | 2022 | ECCV      | [RAWtoBit: A Fully End-to-end Camera ISP Network](https://arxiv.org/pdf/2208.07639)   | -                    | -      |
 | 2021 | CVPR    | [Invertible Image Signal Processing](https://arxiv.org/pdf/2103.15061)  | [torch](https://github.com/happycaoyue/Pseudo-ISP)                    | InvISP     |
