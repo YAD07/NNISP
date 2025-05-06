@@ -8,6 +8,7 @@
 | 2023 | CVPR      | [Raw Image Reconstruction with Learned Compact Metadata](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Raw_Image_Reconstruction_With_Learned_Compact_Metadata_CVPR_2023_paper.pdf)   | [torch](https://github.com/wyf0912/R2LCM)                   | -      |
 | 2022 | CVPR      | [Learning sRGB-to-Raw-RGB De-rendering with Content-Aware Metadata](https://openaccess.thecvf.com/content/CVPR2022/papers/Nam_Learning_sRGB-to-Raw-RGB_De-Rendering_With_Content-Aware_Metadata_CVPR_2022_paper.pdf)  | [torch](https://github.com/SamsungLabs/content-aware-metadata)                  | -      |
 | 2021 | WACV      | [Spatially Aware Metadata for Raw Reconstruction](https://openaccess.thecvf.com/content/WACV2021/papers/Punnappurath_Spatially_Aware_Metadata_for_Raw_Reconstruction_WACV_2021_paper.pdf)  | -                   | -      |
+| 2020 | WACV      | [ Learning Raw ImageReconstruction-Aware DeepImageCompressors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658108)  | -                   | -      |
 | 2016 | CVPR     | [RAWImageReconstruction using a Self-Contained sRGB-JPEG Image with only 64 KB Overhead](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Nguyen_RAW_Image_Reconstruction_CVPR_2016_paper.pdf)  | -                   | -      |
 
 ## All
